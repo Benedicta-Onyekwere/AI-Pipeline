@@ -1,0 +1,218 @@
+[
+  {
+    "description": "Progressive realization of socio-economic rights (housing, healthcare, food, water, etc.)",
+    "who": "Government (via Constitutional Mandate)",
+    "amount": null,
+    "timeline": null,
+    "quote": "It is a Constitution that calls on us not only to redress the injustices of the past, but to progressively realise the right of all South Africans to housing, health care, food, water, social security, education and a better and prosperous life for all.",
+    "reasoning": "This is a foundational commitment rooted in the country's supreme law, explicitly highlighted by the President."
+  },
+  {
+    "description": "Upholding the rights and dignity of marginalized groups (Persons with disabilities, LGBTQI+)",
+    "who": "Government",
+    "amount": null,
+    "timeline": null,
+    "quote": "Our strength comes from our steadfast commitment to uphold the rights and affirm the dignity of people in our society who face prejudice and discrimination, including persons with disabilities and members of the LGBTQI+ community.",
+    "reasoning": "A direct pledge to protect specific vulnerable and marginalized sections of society."
+  },
+  {
+    "description": "National Infrastructure Investment (Roads, bridges, rail, ports, dams, renewable energy)",
+    "who": "Government",
+    "amount": "R1 trillion",
+    "timeline": "Three years",
+    "quote": "We are investing across our country in roads, bridges, rail lines, ports, dams, wind and solar farms. ... Government has committed more than R1 trillion in public investment over three years to build and maintain infrastructure.",
+    "reasoning": "A major developmental pledge with a specified budget and timeframe."
+  },
+  {
+    "description": "Combatting Organized Crime, Gang Violence, and Illegal Mining via SANDF deployment",
+    "who": "The Presidency / SANDF / SAPS",
+    "amount": null,
+    "timeline": "Within the next few days",
+    "quote": "I have directed the Minister of Police and the SANDF to develop a tactical plan where our security forces should be deployed within the next few days in the Western Cape and Gauteng to deal with gang violence and illegal mining.",
+    "reasoning": "A specific security intervention using the military to support civil policing."
+  },
+  {
+    "description": "Police Reform and Accountability through re-vetting and lifestyle audits",
+    "who": "State Security Agency / SAPS",
+    "amount": null,
+    "timeline": null,
+    "quote": "The State Security Agency will re-vet the Senior Management of the SAPS and Metro Police departments. The vetting process will include lifestyle audits.",
+    "reasoning": "A commitment to institutional integrity and fighting internal corruption in the police force."
+  },
+  {
+    "description": "Introduction of the Whistle-Blower Protection Bill",
+    "who": "Parliament / Government",
+    "amount": null,
+    "timeline": null,
+    "quote": "The Whistle-Blower Protection Bill will be introduced in Parliament. Among other things, this will criminalise retaliation and provide psychosocial, legal and financial support to whistle-blowers.",
+    "reasoning": "A legislative commitment to protect anti-corruption efforts."
+  },
+  {
+    "description": "Recruitment of additional police officers",
+    "who": "SAPS / Government",
+    "amount": "5,500 additional police officers",
+    "timeline": "This year",
+    "quote": "We are putting more boots on the ground through the recruitment this year of 5 500 additional police officers, adding to the 20 000 new officers we announced in previous SoNAs.",
+    "reasoning": "A quantifiable target for increasing law enforcement capacity."
+  },
+  {
+    "description": "Public funding for water and sanitation infrastructure",
+    "who": "Government / Ministry of Water and Sanitation",
+    "amount": "R156 billion",
+    "timeline": "Next three years",
+    "quote": "We have committed more than R156 billion in public funding for water and sanitation infrastructure over the next three years.",
+    "reasoning": "A significant financial commitment to address the national water crisis."
+  },
+  {
+    "description": "Establishment of a National Water Crisis Committee",
+    "who": "President (Chair) / National Government",
+    "amount": null,
+    "timeline": "Immediate/Short-term",
+    "quote": "Using the same approach, we will now elevate our response to the water crisis to a National Water Crisis Committee, which I will chair.",
+    "reasoning": "A new high-level governance structure for coordinating the national water response."
+  },
+  {
+    "description": "Establishment of specialized courts for commercial matters",
+    "who": "Department of Justice / Judiciary",
+    "amount": null,
+    "timeline": null,
+    "quote": "To prevent undue delays in critical projects, we will establish specialised courts for commercial matters with dedicated judges and dedicated court rolls to ensure faster outcomes in matters that have a bearing on the economy and development.",
+    "reasoning": "A structural legal reform aimed at accelerating economic development projects."
+  },
+  {
+    "description": "Renewable energy supply target",
+    "who": "Government / Energy sector",
+    "amount": "40% of energy supply",
+    "timeline": "By 2030",
+    "quote": "By 2030, more than 40% of our energy supply will come from cheap, clean and renewable energy sources.",
+    "reasoning": "A long-term strategic target for energy security and cost reduction."
+  },
+  {
+    "description": "Deployment of new Agricultural Extension Officers",
+    "who": "Department of Agriculture",
+    "amount": "10,000 new Extension Officers",
+    "timeline": null,
+    "quote": "We will deploy 10 000 new Extension Officers to support farmers and improve agricultural productivity.",
+    "reasoning": "A concrete human resource commitment to support the agricultural sector."
+  },
+  {
+    "description": "Initiation of public-private partnerships (PPPs) in ports and rail",
+    "who": "Government / Transnet / Private Sector",
+    "amount": null,
+    "timeline": "Later this year",
+    "quote": "Later this year, we will initiate major public-private partnerships in our port terminals and rail corridors through a concession model that preserves public ownership while mobilising private investment and expertise.",
+    "reasoning": "A policy shift towards public-private collaboration in key logistics sectors."
+  },
+  {
+    "description": "National vaccination of cattle herd against foot-and-mouth disease",
+    "who": "State / Department of Agriculture",
+    "amount": "14 million cattle (28 million vaccines)",
+    "timeline": "Next 12 months",
+    "quote": "We have decided to vaccinate the national herd of 14 million cattle. This requires 28 million vaccines over the next 12 months.",
+    "reasoning": "An emergency response to a classified national disaster (FMD outbreak)."
+  },
+  {
+    "description": "Extension of the Electronic Travel Authorisation System (ETA)",
+    "who": "Department of Home Affairs",
+    "amount": null,
+    "timeline": "In the coming year",
+    "quote": "In the coming year, we will extend the Electronic Travel Authorisation System to all countries that require a visa, enabling applications for tourists to be processed digitally within 24 hours.",
+    "reasoning": "A commitment to digitizing and streamlining immigration and tourism services."
+  },
+  {
+    "description": "Tax deduction for investment in new energy vehicles (NEVs)",
+    "who": "National Treasury / Government",
+    "amount": "150% tax deduction",
+    "timeline": "From March this year",
+    "quote": "From March this year, we will introduce a 150% tax deduction for investment in new energy vehicles, while supporting the local production of batteries.",
+    "reasoning": "A fiscal incentive to drive green industrialization."
+  },
+  {
+    "description": "Funding and guarantees for SMEs",
+    "who": "Government / Small business agencies",
+    "amount": "R2.5 billion funding + R1 billion guarantees",
+    "timeline": "This year",
+    "quote": "This year, we will provide more than R2.5 billion in funding to over 180 000 small and medium enterprises, and extend a further R1 billion in guarantees.",
+    "reasoning": "A direct financial target to support small business growth and inclusive economy."
+  },
+  {
+    "description": "Employment equity targets for persons with disabilities",
+    "who": "Public Service / Government Entities",
+    "amount": "7% target",
+    "timeline": "By 2030",
+    "quote": "we are implementing decision to increase employment equity targets of persons with disabilities in the Public Service to 7% by 2030, and to mandate a 7% preferential procurement target across all government and public entities.",
+    "reasoning": "A specific numerical target for social inclusion in government employment and procurement."
+  },
+  {
+    "description": "Mission to end child stunting",
+    "who": "National Government (Health / Social Development)",
+    "amount": "MTBPS allocation pending",
+    "timeline": "By 2030",
+    "quote": "This year, we will embark on a mission to end child stunting by 2030 and tackle malnutrition among young children, in line with the National Strategy to Accelerate Action for Children.",
+    "reasoning": "A long-term social health target with a planned start this year."
+  },
+  {
+    "description": "Redesign of social grants (SRD Grant)",
+    "who": "National Government / SASSA",
+    "amount": null,
+    "timeline": "This year",
+    "quote": "This year, we will redesign the grant to more effectively support livelihoods, skills development, work opportunities and productive activity.",
+    "reasoning": "A strategic shift in social safety net policy to focus on productive activity."
+  },
+  {
+    "description": "Phase 4 of District Six restoration construction",
+    "who": "Government",
+    "amount": "R500 million",
+    "timeline": "Ongoing",
+    "quote": "With R500 million allocated to this work, we are proceeding with Phase 4 of construction. The restoration of District Six is a goal that we all seek...",
+    "reasoning": "A specific financial and operational commitment to land restitution."
+  },
+  {
+    "description": "Rollout of Lenacapavir for HIV prevention",
+    "who": "Department of Health",
+    "amount": "Massive rollout",
+    "timeline": "N/A",
+    "quote": "we will be undertaking a massive rollout of Lenacapavir, a six-monthly injection that has proven highly effective in preventing HIV transmission.",
+    "reasoning": "A major public health intervention aimed at eliminating AIDS."
+  },
+  {
+    "description": "Recruitment of additional labour inspectors",
+    "who": "Department of Labour",
+    "amount": "10,000 labour inspectors",
+    "timeline": "This year",
+    "quote": "To tighten enforcement, we will hire an additional 10 000 labour inspectors this year.",
+    "reasoning": "A quantifiable increase in regulatory enforcement capacity."
+  },
+  {
+    "description": "Finalization of the National State Enterprises Bill",
+    "who": "Presidency / Government",
+    "amount": null,
+    "timeline": null,
+    "quote": "This includes finalising the National State Enterprises Bill in line with this approach.",
+    "reasoning": "A legislative step towards a centralized model for SOE management."
+  },
+  {
+    "description": "Launch of a Digital ID system",
+    "who": "Department of Home Affairs (DHA)",
+    "amount": null,
+    "timeline": "This year",
+    "quote": "This year, the DHA will launch a Digital ID to enable safe and secure use of digital services for all South Africans.",
+    "reasoning": "A specific technological modernization target for citizen identification."
+  },
+  {
+    "description": "Expansion of Smart ID and passport services to bank branches",
+    "who": "DHA / Commercial Banks",
+    "amount": "Hundreds more bank branches",
+    "timeline": "This year alone",
+    "quote": "This year alone, hundreds more bank branches will now offer Smart ID and passport services, decreasing queues and waiting times.",
+    "reasoning": "A service delivery expansion through public-private partnership."
+  },
+  {
+    "description": "Spread of the National Dialogue process",
+    "who": "Eminent Persons Group / Steering Committee",
+    "amount": null,
+    "timeline": "This year",
+    "quote": "This year, the National Dialogue process will spread across South Africa, reaching every community, every school, every university and college and every part of our society.",
+    "reasoning": "A nationwide social cohesion and policy planning project."
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "description": "Progressive realization of socio-economic rights (housing, healthcare, food, water, etc.)",
+    "who": "Government (via Constitutional Mandate)",
+    "amount": null,
+    "timeline": "Progressive",
+    "quote": "It is a Constitution that calls on us not only to redress the injustices of the past, but to progressively realise the right of all South Africans to housing, health care, food, water, social security, education and a better and prosperous life for all.",
+    "reasoning": "Identified as a commitment because the President explicitly invokes the Constitutional mandate ('calls on us') as a binding directive for state action."
+  },
+  {
+    "description": "Upholding the rights and dignity of marginalized groups (Persons with disabilities, LGBTQI+)",
+    "who": "Government",
+    "amount": null,
+    "timeline": "Ongoing",
+    "quote": "Our strength comes from our steadfast commitment to uphold the rights and affirm the dignity of people in our society who face prejudice and discrimination, including persons with disabilities and members of the LGBTQI+ community.",
+    "reasoning": "Qualifies as a commitment through the use of the explicit term 'steadfast commitment' applied to a specific social policy goal."
+  },
+  {
+    "description": "National Infrastructure Investment (Roads, bridges, rail, ports, dams, etc.)",
+    "who": "Government",
+    "amount": "R1 trillion",
+    "timeline": "Three years",
+    "quote": "Government has committed more than R1 trillion in public investment over three years to build and maintain infrastructure.",
+    "reasoning": "Constitutes a formal fiscal pledge due to the use of the verb 'committed' paired with a specific monetary value (R1 trillion) and a defined duration (three years)."
+  },
+  {
+    "description": "Deployment of security forces (SANDF) to tackle gang violence and illegal mining",
+    "who": "Presidency / Minister of Police / SANDF",
+    "amount": "Costs to be informed to Parliament",
+    "timeline": "Within the next few days",
+    "quote": "I have directed the Minister of Police and the SANDF to develop a tactical plan where our security forces should be deployed within the next few days in the Western Cape and Gauteng to deal with gang violence and illegal mining.",
+    "reasoning": "Identified as an executive directive through the command 'I have directed' and the inclusion of a concrete, immediate timeline ('within the next few days')."
+  },
+  {
+    "description": "Re-vetting and lifestyle audits for senior police management",
+    "who": "State Security Agency / SAPS / Metro Police",
+    "amount": null,
+    "timeline": "Immediate",
+    "quote": "The State Security Agency will re-vet the Senior Management of the SAPS and Metro Police departments. The vetting process will include lifestyle audits.",
+    "reasoning": "Confirmed as a commitment by the use of the definitive future tense 'will' to mandate specific institutional oversight actions."
+  },
+  {
+    "description": "Introduction of the Whistle-Blower Protection Bill",
+    "who": "Parliament / Government",
+    "amount": null,
+    "timeline": "Upcoming legislative session",
+    "quote": "The Whistle-Blower Protection Bill will be introduced in Parliament. Among other things, this will criminalise retaliation and provide psychosocial, legal and financial support to whistle-blowers.",
+    "reasoning": "Qualifies as a legislative commitment via the affirmative 'will be introduced' phrasing regarding specific new law."
+  },
+  {
+    "description": "Finalization of new Public Procurement Act regulations",
+    "who": "Government",
+    "amount": null,
+    "timeline": "By mid-2026",
+    "quote": "Measures will include the use of technology and the finalisation of new Public Procurement Act regulations by mid-2026.",
+    "reasoning": "Identified as a commitment due to the combination of a specific action ('finalisation') and a clear deadline ('by mid-2026')."
+  },
+  {
+    "description": "Recruitment of additional police officers",
+    "who": "SAPS / Government",
+    "amount": "5,500 additional police officers",
+    "timeline": "This year",
+    "quote": "We are putting more boots on the ground through the recruitment this year of 5 500 additional police officers, adding to the 20 000 new officers we announced in previous SoNAs.",
+    "reasoning": "Constitutes a measurable performance target through the use of a specific numerical value (5,500) and a defined period ('this year')."
+  },
+  {
+    "description": "Public funding for water and sanitation infrastructure",
+    "who": "Government / Ministry of Water and Sanitation",
+    "amount": "R156 billion",
+    "timeline": "Next three years",
+    "quote": "We have committed more than R156 billion in public funding for water and sanitation infrastructure over the next three years.",
+    "reasoning": "Flagged as a commitment because of the verb 'committed' linked to a specific financial allocation (R156 billion) and a set multi-year timeline."
+  },
+  {
+    "description": "Establishment of a National Water Crisis Committee",
+    "who": "President (Chair) / National Government",
+    "amount": null,
+    "timeline": "Immediate",
+    "quote": "Using the same approach, we will now elevate our response to the water crisis to a National Water Crisis Committee, which I will chair.",
+    "reasoning": "Identified as a commitment to governance reform through the directive 'we will now elevate' and the personal assumption of responsibility by the President."
+  },
+  {
+    "description": "Incentive for metros to reform water, sanitation, and electricity services",
+    "who": "Metros / National Government",
+    "amount": "R54 billion",
+    "timeline": "N/A",
+    "quote": "we have introduced a new R54 billion incentive for metros to reform their water, sanitation and electricity services.",
+    "reasoning": "Recognized as a financial commitment through the announcement of a specific new fiscal 'incentive' valued at R54 billion."
+  },
+  {
+    "description": "Finalization of a revised White Paper on Local Government",
+    "who": "Government",
+    "amount": null,
+    "timeline": "In the coming months",
+    "quote": "Learning from our experience over the past 30 years, we will, in the coming months finalise a revised White Paper on Local Government.",
+    "reasoning": "Confirmed as a commitment by the use of the definitive 'will' applied to a specific policy milestone and an estimated timeline ('in the coming months')."
+  },
+  {
+    "description": "Establishment of specialized courts for commercial matters",
+    "who": "Department of Justice / Judiciary",
+    "amount": null,
+    "timeline": "N/A",
+    "quote": "To prevent undue delays in critical projects, we will establish specialised courts for commercial matters with dedicated judges and dedicated court rolls...",
+    "reasoning": "Qualifies as a judicial reform commitment through the use of the mandatory 'will establish' phrasing."
+  },
+  {
+    "description": "Establishment of a professional State Property Company",
+    "who": "Government",
+    "amount": "88,000 buildings and 5 million hectares",
+    "timeline": "This year",
+    "quote": "This year, we will begin work to establish a professional State Property Company to transform the 88 000 buildings and five million hectares of land owned by the State...",
+    "reasoning": "Identified as a structural reform commitment due to the directive 'will begin work' and the inclusion of specific asset volumes."
+  },
+  {
+    "description": "Renewable energy supply target (40% by 2030)",
+    "who": "Government / Energy sector",
+    "amount": "40% of energy supply",
+    "timeline": "By 2030",
+    "quote": "By 2030, more than 40% of our energy supply will come from cheap, clean and renewable energy sources.",
+    "reasoning": "Constitutes a formal strategic target because it pairs a measurable percentage (40%) with a hard deadline (2030)."
+  },
+  {
+    "description": "Eradication of load reduction across provinces",
+    "who": "Government / Eskom",
+    "amount": null,
+    "timeline": "By next year",
+    "quote": "We will work in each province to address transformer overloading, illegal connections and equipment failure with the objective of eradicating load reduction by next year.",
+    "reasoning": "Flagged as a commitment through the statement of a specific 'objective' and a concrete deadline ('by next year')."
+  },
+  {
+    "description": "Initiation of high-speed rail corridors",
+    "who": "Government / Transport Department",
+    "amount": null,
+    "timeline": "Upcoming Request For Proposals",
+    "quote": "We are preparing to send out a Request For Proposals, which will introduce a new era of long-distance rail travel in South Africa.",
+    "reasoning": "Confirmed as a commitment to infrastructure expansion through the initiation of the formal RFP process ('preparing to send out')."
+  },
+  {
+    "description": "Deployment of Agricultural Extension Officers",
+    "who": "Department of Agriculture",
+    "amount": "10,000 new Extension Officers",
+    "timeline": "N/A",
+    "quote": "We will deploy 10 000 new Extension Officers to support farmers and improve agricultural productivity.",
+    "reasoning": "Recognized as a human resource commitment due to the use of a specific numerical target (10,000) and the directive verb 'will deploy'."
+  },
+  {
+    "description": "National cattle vaccination against foot-and-mouth disease",
+    "who": "State / Department of Agriculture",
+    "amount": "14 million cattle (28 million vaccines)",
+    "timeline": "Next 12 months",
+    "quote": "We have decided to vaccinate the national herd of 14 million cattle. This requires 28 million vaccines over the next 12 months.",
+    "reasoning": "Identified as an emergency commitment through the phrase 'We have decided' combined with specific volume (28 million vaccines) and time (12 months)."
+  },
+  {
+    "description": "Extension of the Electronic Travel Authorisation System (ETA)",
+    "who": "Department of Home Affairs",
+    "amount": "24-hour processing",
+    "timeline": "In the coming year",
+    "quote": "In the coming year, we will extend the Electronic Travel Authorisation System to all countries that require a visa, enabling applications for tourists to be processed digitally within 24 hours.",
+    "reasoning": "Qualifies as an administrative commitment via the 'will extend' directive and a specific performance standard ('within 24 hours')."
+  },
+  {
+    "description": "Tax deduction for investment in new energy vehicles (NEVs)",
+    "who": "National Treasury / Government",
+    "amount": "150% tax deduction",
+    "timeline": "From March this year",
+    "quote": "From March this year, we will introduce a 150% tax deduction for investment in new energy vehicles, while supporting the local production of batteries.",
+    "reasoning": "Flagged as a fiscal policy commitment due to the specific tax percentage (150%) and a defined start date ('From March this year')."
+  },
+  {
+    "description": "Investment target for new energy infrastructure (Just Energy Transition)",
+    "who": "International partners / Government",
+    "amount": "R250 billion",
+    "timeline": "N/A",
+    "quote": "International pledges to the Just Energy Transition Investment Plan now stand at approximately R250 billion.",
+    "reasoning": "Constitutes a financial commitment through the formal recording and reporting of 'international pledges' totalling R250 billion."
+  },
+  {
+    "description": "New investment target for the next five years",
+    "who": "Government / Investors",
+    "amount": "R2 trillion",
+    "timeline": "Next five years",
+    "quote": "We have now set ourselves a target of raising R2 trillion in new investments over the next five years.",
+    "reasoning": "Identified as a major economic commitment by the use of the explicit phrase 'set ourselves a target' with a specific amount and duration."
+  },
+  {
+    "description": "Funding and guarantees for small and medium enterprises (SMEs)",
+    "who": "Government / SME agencies",
+    "amount": "R2.5 billion funding + R1 billion guarantees",
+    "timeline": "This year",
+    "quote": "This year, we will provide more than R2.5 billion in funding to over 180 000 small and medium enterprises, and extend a further R1 billion in guarantees.",
+    "reasoning": "Confirmed as a financial commitment through the use of 'will provide' paired with specific monetary amounts and a time constraint ('this year')."
+  },
+  {
+    "description": "Employment equity and procurement targets for persons with disabilities",
+    "who": "Public Service / Government Entities",
+    "amount": "7% target",
+    "timeline": "By 2030",
+    "quote": "implementing decision to increase employment equity targets of persons with disabilities in the Public Service to 7% by 2030, and to mandate a 7% preferential procurement target...",
+    "reasoning": "Recognized as a policy commitment through the use of the phrase 'implementing decision' and specific numerical targets (7%) with a deadline (2030)."
+  },
+  {
+    "description": "Increase in skills development levy return to employers",
+    "who": "Government",
+    "amount": "40% return (restored)",
+    "timeline": "N/A",
+    "quote": "we will increase the proportion of the skills development levy returned to employers, restoring it to its original level of 40%.",
+    "reasoning": "Identified as a fiscal commitment via the directive 'will increase' and a specific restoration percentage (40%)."
+  },
+  {
+    "description": "Mission to end child stunting",
+    "who": "Government",
+    "amount": "Targeted interventions",
+    "timeline": "By 2030",
+    "quote": "This year, we will embark on a mission to end child stunting by 2030 and tackle malnutrition among young children...",
+    "reasoning": "Qualifies as a major social commitment through the phrasing 'will embark on a mission' and the inclusion of a hard deadline (2030)."
+  },
+  {
+    "description": "Redesign of the Social Relief of Distress (SRD) Grant",
+    "who": "National Government / SASSA",
+    "amount": null,
+    "timeline": "This year",
+    "quote": "This year, we will redesign the grant to more effectively support livelihoods, skills development, work opportunities and productive activity.",
+    "reasoning": "Confirmed as a policy commitment through the definitive 'will redesign' mandate for the current fiscal year."
+  },
+  {
+    "description": "Phase 4 of District Six restoration",
+    "who": "Government",
+    "amount": "R500 million",
+    "timeline": "Ongoing",
+    "quote": "With R500 million allocated to this work, we are proceeding with Phase 4 of construction.",
+    "reasoning": "Identified as a tangible commitment through the mention of specific 'allocated' funds (R500 million) and the status 'proceeding'."
+  },
+  {
+    "description": "Massive rollout of Lenacapavir for HIV prevention",
+    "who": "Department of Health",
+    "amount": "Massive rollout",
+    "timeline": "N/A",
+    "quote": "we will be undertaking a massive rollout of Lenacapavir, a six-monthly injection that has proven highly effective in preventing HIV transmission.",
+    "reasoning": "Confirmed as a public health commitment via the phrase 'will be undertaking a massive rollout' regarding a specific drug."
+  },
+  {
+    "description": "Recruitment of additional labour inspectors",
+    "who": "Department of Labour",
+    "amount": "10,000 labour inspectors",
+    "timeline": "This year",
+    "quote": "To tighten enforcement, we will hire an additional 10 000 labour inspectors this year.",
+    "reasoning": "Constitutes a measurable performance commitment through a specific numerical target (10,000) and the verb 'will hire'."
+  },
+  {
+    "description": "Launch of a Digital ID and digitization of government services",
+    "who": "Department of Home Affairs (DHA)",
+    "amount": null,
+    "timeline": "This year",
+    "quote": "This year, the DHA will launch a Digital ID to enable safe and secure use of digital services for all South Africans.",
+    "reasoning": "Identified as a service delivery commitment through the affirmative 'will launch' phrasing for the current year."
+  },
+  {
+    "description": "Spread of the National Dialogue process and National Convention",
+    "who": "Eminent Persons Group / Steering Committee",
+    "amount": null,
+    "timeline": "This year",
+    "quote": "This year, the National Dialogue process will spread across South Africa, reaching every community... These public dialogues will culminate in a National Convention...",
+    "reasoning": "Qualifies as a socio-political commitment through the use of the future tense 'will' to outline a specific national engagement process."
+  }
+]

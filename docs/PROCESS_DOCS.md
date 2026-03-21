@@ -55,10 +55,10 @@ To be included in the final dataset, a statement had to meet at least one of the
 
 ## 6. Final Artifacts Catalog
 All files produced during this process are available in the repository for audit:
-*   **`PLAN.md`**: The technical strategy used for the extraction.
-*   **`step1_analysis.json`**: Initial chunk-level findings.
-*   **`step2_attributes.json`**: Raw extracted metadata.
-*   **`step3_verified.json`**: The deduplicated and globally verified "Golden Source."
+*   **`process/PLAN.md`**: The technical strategy used for the extraction.
+*   **`process/step1_analysis.json`**: Initial chunk-level findings.
+*   **`process/step2_attributes.json`**: Raw extracted metadata.
+*   **`process/step3_verified.json`**: The deduplicated and globally verified "Golden Source."
 *   **`commitments_final.csv`**: The final delivery file.
 *   **`docs/PROCESS_DOCS.md`**: This documentation file.
 
