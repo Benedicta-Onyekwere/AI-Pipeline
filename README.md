@@ -24,6 +24,16 @@ Install the package globally:
 pnpm add -g @google/gemini-cli
 ```
 
+It can also be easily installed using npm:
+```bash
+npm install -g @google/gemini-cli
+```
+
+Or run without installation using npx:
+```bash
+npx @google/gemini-cli
+```
+
 ### 3. Approve Builds
 Grant the necessary permissions for the CLI:
 ```bash
