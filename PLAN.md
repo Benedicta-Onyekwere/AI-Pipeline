@@ -33,3 +33,16 @@ The process was designed to ensure context continuity and data integrity by usin
 - **Method:** Converted the verified JSON data into a CSV format with proper escaping for quotes and special characters.
 - **Output:** `commitments_final.csv`
 - **Goal:** Deliver a structured, review-ready dataset with the requested columns.
+
+---
+
+## Refinement Pass: Commitment Justification (Phase 2)
+An additional audit was performed to improve the "Reasoning" column.
+
+### Goal
+To transition from descriptive reasoning (topic-based) to **justificatory reasoning** (commitment-based).
+
+### Key Refinements
+- **Directive Language:** Every reasoning now highlights specific verbs (e.g., "will," "directed," "committed," "embark") that indicate a formal mandate.
+- **Measurability & Accountability:** Reasonings now explicitly link the commitment to specific numerical targets (e.g., "R1 trillion," "5,500 officers") and timelines (e.g., "by 2030," "within the next few days").
+- **Institutional Context:** Explains why the specific phrasing (e.g., invoking the Constitution) elevates the statement to a formal state commitment.
