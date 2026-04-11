@@ -126,10 +126,12 @@ def scrape_profile(url):
 def save_to_csv(data):
     if not data:
         return
-    keys = data[0].keys()
+    
+    # Define the desired column order
+    fieldnames = ['Name', 'Country', 'Political Group', 'National Party', 'Committee Role', 'Role', 'Facebook', 'Twitter', 'Instagram', 'Profile URL']
+    
     with open('mep_details.csv', 'w', newline='', encoding='utf-8') as output_file:
-        dict_writer = csv.DictWriter(output_file, fieldnames=keys)
-
+        dict_writer = csv.DictWriter(output_file, fieldnames=fieldnames)
         dict_writer.writeheader()
         dict_writer.writerows(data)
 
