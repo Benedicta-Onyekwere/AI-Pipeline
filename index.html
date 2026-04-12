@@ -3,63 +3,43 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MEP Data Reviewer</title>
+    <title>OpenSanctions Review Tool</title>
     <link rel="stylesheet" href="style.css">
-    <!-- PapaParse for easy CSV parsing -->
+    <!-- PapaParse is used to read CSV files in the browser -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>MEP Reviewer</h1>
-            <div class="controls">
-                <button id="prevBtn" disabled>Previous</button>
-                <span id="counter">Loading...</span>
-                <button id="nextBtn" disabled>Next</button>
-            </div>
-            <div class="search-container">
-                <input type="text" id="searchInput" placeholder="Search by name or country...">
-            </div>
+            <h1>OpenSanctions Results Review</h1>
+            <p>Review the potential matches below and approve or reject them.</p>
         </header>
 
-        <main id="reviewer-card" class="card hidden">
-            <div class="card-header">
-                <h2 id="mep-name">Name</h2>
-                <span id="mep-committee-role" class="badge">Role</span>
-            </div>
-            
-            <div class="card-body">
-                <div class="info-group">
-                    <label>Country:</label>
-                    <span id="mep-country">Country</span>
-                </div>
-                <div class="info-group">
-                    <label>Political Group:</label>
-                    <span id="mep-political-group">Political Group</span>
-                </div>
-                <div class="info-group">
-                    <label>National Party:</label>
-                    <span id="mep-national-party">National Party</span>
-                </div>
-                <div class="info-group">
-                    <label>General Role:</label>
-                    <span id="mep-role">Role</span>
-                </div>
-            </div>
-
-            <div class="card-footer">
-                <div class="social-links">
-                    <a id="link-facebook" href="#" target="_blank" class="social-btn fb hidden">Facebook</a>
-                    <a id="link-twitter" href="#" target="_blank" class="social-btn tw hidden">Twitter</a>
-                    <a id="link-instagram" href="#" target="_blank" class="social-btn inst hidden">Instagram</a>
-                </div>
-                <a id="link-profile" href="#" target="_blank" class="profile-link">View Full Profile</a>
-            </div>
-        </main>
-
-        <div id="loading" class="loading-state">
-            <p>Fetching MEP data...</p>
+        <div class="actions">
+            <input type="text" id="searchInput" placeholder="Search by name or topic...">
+            <button id="exportBtn" class="btn-primary">Export Reviewed CSV</button>
         </div>
+
+        <div class="table-container">
+            <table id="resultsTable">
+                <thead>
+                    <tr>
+                        <th>Status</th>
+                        <th>Name</th>
+                        <th>Score</th>
+                        <th>Type</th>
+                        <th>Topics</th>
+                        <th>ID</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="resultsTableBody">
+                    <!-- Results will be loaded here -->
+                </tbody>
+            </table>
+        </div>
+
+        <div id="loading">Loading data...</div>
     </div>
     <script src="app.js"></script>
 </body>
