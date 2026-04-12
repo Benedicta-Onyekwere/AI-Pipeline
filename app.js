@@ -41,20 +41,14 @@ function renderTable() {
     filteredMEPs.forEach((mep, index) => {
         const row = document.createElement('tr');
         
-        // Status Column
-        const statusCell = document.createElement('td');
-        statusCell.textContent = mep.ReviewStatus;
-        statusCell.className = `status-${mep.ReviewStatus.toLowerCase()}`;
-        row.appendChild(statusCell);
-
-        // MEP Info Columns
+        // 1. MEP Info Columns
         ['Name', 'Country', 'Political Group', 'National Party', 'Committee Role', 'Role'].forEach(key => {
             const cell = document.createElement('td');
             cell.textContent = mep[key] || '-';
             row.appendChild(cell);
         });
 
-        // Social Links Column
+        // 2. Social Links Column
         const socialCell = document.createElement('td');
         const links = [];
         if (mep.Facebook && mep.Facebook !== 'Not found') links.push(`<a href="${mep.Facebook}" target="_blank">FB</a>`);
@@ -63,17 +57,25 @@ function renderTable() {
         socialCell.innerHTML = links.join(' | ') || '-';
         row.appendChild(socialCell);
 
-        // Actions Column
+        // 3. Status Column (Now before Actions)
+        const statusCell = document.createElement('td');
+        statusCell.textContent = mep.ReviewStatus;
+        statusCell.className = `status-${mep.ReviewStatus.toLowerCase()}`;
+        row.appendChild(statusCell);
+
+        // 4. Actions Column (Using Symbols)
         const actionCell = document.createElement('td');
         
         const approveBtn = document.createElement('button');
-        approveBtn.textContent = 'Approve';
+        approveBtn.innerHTML = '✔'; // Symbol for approve
         approveBtn.className = 'btn-approve';
+        approveBtn.title = 'Approve';
         approveBtn.onclick = () => updateStatus(index, 'Approved');
         
         const rejectBtn = document.createElement('button');
-        rejectBtn.textContent = 'Reject';
+        rejectBtn.innerHTML = '✖'; // Symbol for reject
         rejectBtn.className = 'btn-reject';
+        rejectBtn.title = 'Reject';
         rejectBtn.onclick = () => updateStatus(index, 'Rejected');
 
         actionCell.appendChild(approveBtn);
@@ -87,7 +89,6 @@ function renderTable() {
 // --- UPDATE STATUS ---
 function updateStatus(filteredIndex, newStatus) {
     const mep = filteredMEPs[filteredIndex];
-    // Find in original array to keep status when searching
     const originalMep = allMEPs.find(m => m.Name === mep.Name && m['Profile URL'] === mep['Profile URL']);
     if (originalMep) {
         originalMep.ReviewStatus = newStatus;
@@ -108,7 +109,6 @@ searchInput.addEventListener('input', (e) => {
 
 // --- EXPORT ---
 exportBtn.addEventListener('click', () => {
-    // Only export approved MEPs
     const approved = allMEPs.filter(m => m.ReviewStatus === 'Approved');
     const csv = Papa.unparse(approved);
     const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
@@ -119,5 +119,4 @@ exportBtn.addEventListener('click', () => {
     link.click();
 });
 
-// Start!
 loadData();
