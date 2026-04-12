@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MEP Data Review Table</title>
-    <link rel="stylesheet" href="style.css">
+    <!-- The ?v=2 at the end forces the browser to load the new Dark Theme -->
+    <link rel="stylesheet" href="style.css?v=2">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
 </head>
 <body>
@@ -23,7 +24,7 @@
             <table id="mepTable">
                 <thead>
                     <tr>
-                        <th>Name</th>
+                        <th style="width: 200px;">Name</th>
                         <th>Country</th>
                         <th>Political Group</th>
                         <th>National Party</th>
@@ -42,6 +43,6 @@
 
         <div id="loading">Loading MEP data...</div>
     </div>
-    <script src="app.js"></script>
+    <script src="app.js?v=2"></script>
 </body>
 </html>
